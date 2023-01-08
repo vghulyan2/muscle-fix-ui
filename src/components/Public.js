@@ -26,7 +26,7 @@ const Public = () => {
   return (
     <Box m="1.5rem 2.5rem">
       <Typography variant="h6" sx={{ color: theme.palette.secondary[100] }}>
-        Welcome To Muscle Fixer
+        Welcome To Muscle Fixer!!!
       </Typography>
     </Box>
   );
